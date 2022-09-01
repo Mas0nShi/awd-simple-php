@@ -10,4 +10,4 @@
  read the log of GET, POST and upload 🐎 requests
  
 ## Usage
- Coming soon 😊
+ 
